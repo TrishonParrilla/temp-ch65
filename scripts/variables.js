@@ -9,7 +9,7 @@ let myAge = 99;
 let isProfessor = true;
 let isStudent = false;
 
-//display the values
+//display the values 
 console.log(isProfessor)
 console.log(isStudent)
 
@@ -60,3 +60,6 @@ const weekDays = 7;
 
 //weekdays = 9;
 console.log(weekDays);
+
+
+
